@@ -1,3 +1,3 @@
 # glocvis
 
-use google location history to visualize commute pattern
+use google location history to visualize patterns
